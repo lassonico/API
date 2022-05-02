@@ -1,0 +1,52 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Antonia Lasso",
+      "email": "hijateamo@mail.com",
+      "whatsapp": "3134561290",
+      "id": 1
+    },
+    {
+      "nombre": "Monica Paola Fierro",
+      "email": "amorteamo@mail.com",
+      "whatsapp": "3138505017",
+      "id": 2
+    },
+    {
+      "nombre": "Nicolas Lasso",
+      "email": "sionvmx@mail.com",
+      "whatsapp": "3232858951",
+      "id": 3
+    },
+    {
+      "nombre": "Flor Mireya Rojas",
+      "email": "suegrita@mail.com",
+      "whatsapp": "3144041290",
+      "id": 4
+    },
+    {
+      "nombre": "Henry Fierro Polania",
+      "email": "suegrito@mail.com",
+      "whatsapp": "3157890345",
+      "id": 5
+    },
+    {
+      "nombre": "Jesus Maria Lasso",
+      "email": "apa@mail.com",
+      "whatsapp": "3164546330",
+      "id": 6
+    },
+    {
+      "nombre": "Rocio Rodriguez",
+      "email": "amasita@mail.com",
+      "whatsapp": "3178902035",
+      "id": 7
+    },
+    {
+      "nombre": "Alison Lasso",
+      "email": "hermanita@mail.com",
+      "whatsapp": "3148906754",
+      "id": 8
+    }
+  ]
+}
